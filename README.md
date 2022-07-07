@@ -8,6 +8,8 @@ Provides a simple executor from PHP to 'A5:SQL Mk-2'(A5M2).
 
 PHPから'A5:SQL Mk-2'(A5M2)を簡単に実行するためのライブラリを提供します。
 
+Packagistへの公開は、ドキュメント作ってからにしようと思っています。
+
 ## Requirement
 - PHP8.0+
 - [cwola/attribute](https://github.com/cwola/attribute) v1.0+
