@@ -15,15 +15,13 @@ A5:SQL Mk-2のコマンドラインユーティリティを使用すれば、そ
 
 A5:SQL Mk-2だとテーブル定義書(HTML)なども生成できるようなので、その辺りの実行機能も追加していく予定です。
 
-Packagistへの公開は、ドキュメント作ってからにしようと思っています。
-
 ## Requirement
 - PHP8.0+
 - [cwola/attribute](https://github.com/cwola/attribute) v1.0+
 
-## Document
+<!-- ## Document
 
-詳細なドキュメントはココを参照してください(準備中)
+詳細なドキュメントはココを参照してください(v1.0.0:準備中) -->
 
 ## Preparation
 
