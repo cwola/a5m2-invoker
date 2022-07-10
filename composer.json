@@ -2,7 +2,6 @@
     "name": "cwola/a5m2-invoker",
     "description": "Provides a simple execute from PHP to 'A5:SQL Mk-2'(A5M2).",
     "type": "library",
-    "version": "1.0.0",
     "keywords": [
       "php",
       "cwola",
@@ -15,8 +14,9 @@
             "name": "r-jimbo"
         }
     ],
+    "homepage": "https://github.com/cwola/a5m2-invoker",
     "require": {
-      "php": "^8.0",
+      "php": ">=8.0.0",
       "cwola/attribute": "^1.0"
     },
     "autoload": {
