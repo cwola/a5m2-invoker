@@ -19,6 +19,11 @@ A5:SQL Mk-2だとテーブル定義書(HTML)なども生成できるようなの
 - PHP8.0+
 - [cwola/attribute](https://github.com/cwola/attribute) v1.0+
 
+## Installation
+```
+composer require cwola/a5m2-invoker
+```
+
 <!-- ## Document
 
 詳細なドキュメントはココを参照してください(v1.0.0:準備中) -->
